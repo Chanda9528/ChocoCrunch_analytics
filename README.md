@@ -18,4 +18,5 @@ It cleans, transforms, and stores data in MySQL, then visualizes insights throug
 - Streamlit (for dashboard visualization)
 - Pandas, Plotly, Matplotlib (for analysis and graphs)
 
-## Folder Structure
+
+
