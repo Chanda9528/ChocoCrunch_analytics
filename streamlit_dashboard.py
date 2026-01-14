@@ -1,5 +1,5 @@
-# %%
-# STEP 6 — Streamlit Dashboard (As per Project Report)
+
+# STEP 6 — Streamlit Dashboard 
 
 import streamlit as st
 import pandas as pd
@@ -101,3 +101,4 @@ if all(col in df.columns for col in num_cols):
     st.dataframe(corr)
 else:
     st.warning("Not all nutrient columns found for correlation matrix.")
+
